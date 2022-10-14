@@ -1,7 +1,7 @@
 # Priyo-Bank
 
-Deposit
-Withdraw
+Deposit, 
+Withdraw, 
 Current Balance
 <!-- ---------------- -->
 Java Script
